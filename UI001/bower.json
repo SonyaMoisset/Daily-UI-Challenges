@@ -1,0 +1,21 @@
+{
+  "name": "UI001",
+  "homepage": "https://github.com/SonyaMoisset/Daily-UI-Challenges",
+  "authors": [
+    "SonyaMoisset <sonya.moisset@gmail.com>"
+  ],
+  "description": "Sign Up Form",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.0.6"
+  }
+}

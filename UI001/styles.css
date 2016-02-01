@@ -1,0 +1,25 @@
+body {
+    background-color: #ddd;
+}
+.signin-card-square.mdl-card {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  width: 320px;
+  height: 350px;
+}
+.signin-card-square > .mdl-card__title {
+  height: 150px;
+  color: #fff;
+  background:
+    url('img/london.jpeg') center / cover;
+}
+.mdl-button {
+  color: #fff;
+  background-color: #000;
+}
+.mdl-button:hover,
+.mdl-button:active {
+  color: #000;
+  background-color: #fff;
+}
