@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "UI001/js/material-design-lite/package.json"
+      ]
+    }
+  }
+}
