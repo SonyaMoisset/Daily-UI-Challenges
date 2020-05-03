@@ -53,7 +53,7 @@
     "gulp-util": "3.0.8",
     "gulp-zip": "3.2.0",
     "humanize": "0.0.9",
-    "jquery": "2.2.4",
+    "jquery": "3.5.0",
     "jshint-stylish": "1.0.2",
     "merge-stream": "0.1.8",
     "mocha": "2.5.3",
