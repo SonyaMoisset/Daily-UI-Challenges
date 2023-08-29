@@ -59,7 +59,7 @@
     "mocha": "2.5.3",
     "opn": "1.0.2",
     "phantomjs": "1.9.20",
-    "prismjs": "0.0.1",
+    "prismjs": "1.25.0",
     "require-dir": "0.3.2",
     "run-sequence": "1.2.2",
     "swig": "1.4.2",
