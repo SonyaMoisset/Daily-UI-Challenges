@@ -9,7 +9,7 @@
   "devDependencies": {
     "acorn": "2.7.0",
     "apache-server-configs": "4.1.0",
-    "browser-sync": "2.26.7",
+    "browser-sync": "2.29.3",
     "chai": "2.3.0",
     "chai-jquery": "2.1.0",
     "del": "1.2.1",
